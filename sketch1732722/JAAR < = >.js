@@ -29,7 +29,7 @@ function draw() {
 function textHow(){
 	textAlign(CENTER, CENTER);
 	textFont(font2);
-  textSize(20);
+ 	textSize(20);
 	fill(flickr);
 	stroke(flickr);
 	strokeWeight(.5);
@@ -41,7 +41,7 @@ function textHow(){
 function textNeon(){
 	textAlign(CENTER, CENTER);
 	textFont(font1);
-  textSize(100);
+  	textSize(100);
 	fill(color2);
 	stroke(color1);
 	strokeWeight(2);
