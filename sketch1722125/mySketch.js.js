@@ -26,7 +26,7 @@ function textNeon(){
 	neonColor=color(255,0,0,valor);
 	textAlign(CENTER, CENTER);
 	textFont(font);
-  textSize(100);
+  	textSize(100);
 	fill(240,248,255, valor);
 	stroke(neonColor);
 	strokeWeight(2);
