@@ -58,7 +58,7 @@ function glow(glowColor,bluriness){
 function textChinese(){
 	textAlign(CENTER, CENTER);
 	textFont(font3);
-  textSize(100);
+  	textSize(100);
 	fill(color2);
 	stroke(color1);
 	strokeWeight(2);
